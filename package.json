@@ -73,7 +73,7 @@
     "dicom-parser": "^1.8.5",
     "expose-loader": "^0.7.5",
     "express": "^4.16.4",
-    "express-jwt": "^5.3.1",
+    "express-jwt": "^6.0.0",
     "fs": "0.0.1-security",
     "jsonwebtoken": "^8.5.1",
     "loadash": "^1.0.0",
